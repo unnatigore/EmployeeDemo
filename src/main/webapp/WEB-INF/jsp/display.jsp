@@ -8,7 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-Employee ID : ${employee.empId} 
+Employee ID : ${employee.empID} 
 Full Name : ${employee.empName} 
 Salary : ${employee.salary}
 
